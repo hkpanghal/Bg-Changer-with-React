@@ -3,7 +3,7 @@
 This project is helpful for learning the implementation of the following react topics 
 
 1. Crating basic react app with vite ✅
-2. basic tailwind css
+2. basic tailwind css ✅
 3. react fragments ✅
 4. react hooks ✅
 5. react components ✅
