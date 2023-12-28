@@ -2,12 +2,12 @@
 
 This project is helpful for learning the implementation of the following react topics 
 
-1. Crating basic react app with vite ✅
+1. Creating basic react app with vite ✅
 2. basic tailwind css ✅
 3. react fragments ✅
 4. react hooks ✅
 5. react components ✅
-6. basic DOM maipulation ✅
+6. basic DOM manipulation ✅
 7. react props ✅
 8. destructuring objects ✅
 9. jsx implementation ✅
